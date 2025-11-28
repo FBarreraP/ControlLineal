@@ -102,40 +102,40 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>10/10/2022</td> <td>2</td> <td>21</td> <td>12</td> <td>Introducción a diseño en frecuencia</td>
+		<td>10/10/2022</td> <td>2</td> <td>23</td> <td>12</td> <td>Introducción a diseño en frecuencia</td>
 	</tr>
 	<tr>
-		<td>11/10/2022</td> <td>2</td> <td>21</td> <td>12</td> <td>Diseño por atraso de fase</td>
+		<td>11/10/2022</td> <td>2</td> <td>24</td> <td>12</td> <td>Diseño por atraso de fase</td>
 	</tr>
 	<tr>
-		<td>17/10/2022</td> <td>2</td> <td>21</td> <td>13</td> <td>FESTIVO</td>
+		<td>17/10/2022</td> <td>2</td> <td>25</td> <td>13</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>18/10/2022</td> <td>2</td> <td>22</td> <td>13</td> <td>Diseño por adelanto de fase</td>
+		<td>18/10/2022</td> <td>2</td> <td>26</td> <td>13</td> <td>Diseño por adelanto de fase</td>
 	</tr>
 	<tr>
-		<td>24/10/2022</td> <td>2</td> <td>23</td> <td>14</td> <td>Introducción a control digital</td>
+		<td>24/10/2022</td> <td>2</td> <td>27</td> <td>14</td> <td>Introducción a control digital</td>
 	</tr>
 	<tr>
-		<td>25/10/2022</td> <td>2</td> <td>24</td> <td>14</td> <td>Transformada Z</td>
+		<td>25/10/2022</td> <td>2</td> <td>28</td> <td>14</td> <td>Transformada Z</td>
 	</tr>
 	<tr>
-		<td>31/10/2022</td> <td>2</td> <td>25</td> <td>15</td> <td>Discretización de controladores analógicos</td>
+		<td>31/10/2022</td> <td>2</td> <td>29</td> <td>15</td> <td>Discretización de controladores analógicos</td>
 	</tr>
     <tr>
-		<td>01/11/2022</td> <td>2</td> <td>26</td> <td>15</td> <td>Dudas</td>
+		<td>01/11/2022</td> <td>2</td> <td>30</td> <td>15</td> <td>Dudas</td>
 	</tr>
     <tr>
-		<td>07/11/2022</td> <td>2</td> <td>29</td> <td>16</td> <td>FESTIVO</td>
+		<td>07/11/2022</td> <td>2</td> <td>31</td> <td>16</td> <td>FESTIVO</td>
 	</tr>
     <tr>
-		<td>08/11/2022</td> <td>2</td> <td>30</td> <td>16</td> <td>Examen final</td>
+		<td>08/11/2022</td> <td>2</td> <td>32</td> <td>16</td> <td>Examen final</td>
 	</tr><!--Finalización de clases-->
     <tr>
-		<td>14/11/2022</td> <td>2</td> <td>31</td> <td>17</td> <td>FESTIVO</td>
+		<td>14/11/2022</td> <td>2</td> <td>33</td> <td>17</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>15/11/2022</td> <td>2</td> <td>32</td> <td>17</td> <td>Retroalimentación del examen final<br>Entrega de notas tercer corte</td>
+		<td>15/11/2022</td> <td>2</td> <td>34</td> <td>17</td> <td>Retroalimentación del examen final<br>Entrega de notas tercer corte</td>
 	</tr>
 </table>
 
