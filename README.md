@@ -102,43 +102,40 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>18/04/2025<br>19/04/2025</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
+		<td>10/10/2022</td> <td>2</td> <td>21</td> <td>11</td> <td>Introducción a diseño en frecuencia</td>
 	</tr>
 	<tr>
-		<td>25/04/2025</td> <td>2</td> <td>21</td> <td>11</td> <td>Avance de proyecto</td>
+		<td>11/10/2022</td> <td>2</td> <td>21</td> <td>11</td> <td>Diseño por atraso de fase</td>
 	</tr>
 	<tr>
-		<td>26/04/2025</td> <td>2</td> <td>22</td> <td>11</td> <td>Máquinas de estado finitas</td>
+		<td>17/10/2022</td> <td>2</td> <td>21</td> <td>11</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>02/05/2025</td> <td>2</td> <td>23</td> <td>12</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
+		<td>18/10/2022</td> <td>2</td> <td>22</td> <td>11</td> <td>Diseño por adelanto de fase</td>
 	</tr>
 	<tr>
-		<td>03/05/2025</td> <td>2</td> <td>24</td> <td>12</td> <td>SoC (Nios II)</td>
+		<td>24/10/2022</td> <td>2</td> <td>23</td> <td>12</td> <td>Introducción a control digital</td>
 	</tr>
 	<tr>
-		<td>09/05/2025</td> <td>2</td> <td>25</td> <td>13</td> <td></td>
+		<td>25/10/2022</td> <td>2</td> <td>24</td> <td>12</td> <td>Transformada Z</td>
+	</tr>
+	<tr>
+		<td>31/10/2022</td> <td>2</td> <td>25</td> <td>13</td> <td>Discretización de controladores analógicos</td>
 	</tr>
     <tr>
-		<td>10/05/2025</td> <td>2</td> <td>26</td> <td>13</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
+		<td>01/11/2022</td> <td>2</td> <td>26</td> <td>13</td> <td>Dudas</td>
 	</tr>
     <tr>
-		<td>16/05/2025</td> <td>2</td> <td>27</td> <td>14</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
+		<td>07/11/2022</td> <td>2</td> <td>29</td> <td>15</td> <td>FESTIVO</td>
 	</tr>
     <tr>
-		<td>17/05/2025</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
-	</tr>
-    <tr>
-		<td>23/05/2025</td> <td>2</td> <td>29</td> <td>15</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
-	</tr>
-    <tr>
-		<td>24/05/2025</td> <td>2</td> <td>30</td> <td>15</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
+		<td>08/11/2022</td> <td>2</td> <td>30</td> <td>15</td> <td>Examen final</td>
 	</tr><!--Finalización de clases-->
     <tr>
-		<td>30/05/2025</td> <td>2</td> <td>31</td> <td>16</td> <td>Examen final</td>
+		<td>14/11/2022</td> <td>2</td> <td>31</td> <td>16</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>31/05/2025</td> <td>2</td> <td>32</td> <td>16</td> <td>Retroalimentación del examen final y entrega de notas tercer corte</td>
+		<td>15/11/2022</td> <td>2</td> <td>32</td> <td>16</td> <td>Retroalimentación del examen final<br>Entrega de notas tercer corte</td>
 	</tr>
 </table>
 
