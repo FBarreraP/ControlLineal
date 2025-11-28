@@ -47,13 +47,13 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>22/08/2022</td> <td>2</td> <td>9</td> <td>5</td> <td>Acciones básicas de control</td>
 	</tr>
 	<tr>
-		<td>23/08/2022</td> <td>2</td> <td>10</td> <td>4</td> <td>Controlador PID</td>
+		<td>23/08/2022</td> <td>2</td> <td>10</td> <td>5</td> <td>Controlador PID</td>
 	</tr>
 	<tr>
-		<td>26/08/2022</td> <td>2</td> <td>11</td> <td>5</td> <td>Parcial primer corte</td>
+		<td>26/08/2022</td> <td>2</td> <td>11</td> <td>6</td> <td>Parcial primer corte</td>
 	</tr>
 	<tr>
-		<td>27/08/2022</td> <td>2</td> <td>12</td> <td>5</td> <td>Retroalimentación del parcial primer corte<br>Entrega de notas primer corte</td>
+		<td>27/08/2022</td> <td>2</td> <td>12</td> <td>6</td> <td>Retroalimentación del parcial primer corte<br>Entrega de notas primer corte</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 </table>
 
@@ -64,34 +64,34 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>05/09/2022</td> <td>2</td> <td>13</td> <td>6</td> <td>Identificación de sistemas en lazo abierto y lazo cerrado</td>
+		<td>05/09/2022</td> <td>2</td> <td>13</td> <td>7</td> <td>Identificación de sistemas en lazo abierto y lazo cerrado</td>
 	</tr>
 	<tr>
-		<td>06/09/2022</td> <td>2</td> <td>14</td> <td>6</td> <td> Sintonización PID (lazo abierto y lazo cerrado)</td>
+		<td>06/09/2022</td> <td>2</td> <td>14</td> <td>7</td> <td> Sintonización PID (lazo abierto y lazo cerrado)</td>
 	</tr>
 	<tr>
-		<td>12/09/2022</td> <td>2</td> <td>15</td> <td>7</td> <td>Introducción a espacio de estados</td>
+		<td>12/09/2022</td> <td>2</td> <td>15</td> <td>8</td> <td>Introducción a espacio de estados</td>
 	</tr>
 		<tr>
-		<td>13/09/2022</td> <td>2</td> <td>16</td> <td>7</td> <td>Operaciones en espacio de estados</td>
+		<td>13/09/2022</td> <td>2</td> <td>16</td> <td>8</td> <td>Operaciones en espacio de estados</td>
 	</tr>
 	<tr>
-		<td>19/09/2022</td> <td>2</td> <td>17</td> <td>8</td> <td>Diseño de sistemas de control por realimentación de estados</td>
+		<td>19/09/2022</td> <td>2</td> <td>17</td> <td>9</td> <td>Diseño de sistemas de control por realimentación de estados</td>
 	</tr>
 	<tr>
-		<td>20/09/2022</td> <td>2</td> <td>18</td> <td>8</td> <td>Acción integral con realimentación de estados</td>
+		<td>20/09/2022</td> <td>2</td> <td>18</td> <td>9</td> <td>Acción integral con realimentación de estados</td>
 	</tr>
 	<tr>
-		<td>26/09/2022</td> <td>2</td> <td>19</td> <td>9</td> <td>Observadores de estado</td>
+		<td>26/09/2022</td> <td>2</td> <td>19</td> <td>10</td> <td>Observadores de estado</td>
 	</tr>
 	<tr>
-		<td>27/09/2022</td> <td>2</td> <td>20</td> <td>9</td> <td>Formula de Ackerman</td>
+		<td>27/09/2022</td> <td>2</td> <td>20</td> <td>10</td> <td>Formula de Ackerman</td>
 	</tr>
 	<tr>
-		<td>03/10/2022</td> <td>2</td> <td>21</td> <td>10</td> <td>Parcial segundo corte</td>
+		<td>03/10/2022</td> <td>2</td> <td>21</td> <td>11</td> <td>Parcial segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>04/10/2022</td> <td>2</td> <td>22</td> <td>10</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte</td>
+		<td>04/10/2022</td> <td>2</td> <td>22</td> <td>11</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte</td>
 	</tr><!--última semana de registro de notas del segundo corte-->
 </table>
 
@@ -102,40 +102,40 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>10/10/2022</td> <td>2</td> <td>21</td> <td>11</td> <td>Introducción a diseño en frecuencia</td>
+		<td>10/10/2022</td> <td>2</td> <td>21</td> <td>12</td> <td>Introducción a diseño en frecuencia</td>
 	</tr>
 	<tr>
-		<td>11/10/2022</td> <td>2</td> <td>21</td> <td>11</td> <td>Diseño por atraso de fase</td>
+		<td>11/10/2022</td> <td>2</td> <td>21</td> <td>12</td> <td>Diseño por atraso de fase</td>
 	</tr>
 	<tr>
-		<td>17/10/2022</td> <td>2</td> <td>21</td> <td>11</td> <td>FESTIVO</td>
+		<td>17/10/2022</td> <td>2</td> <td>21</td> <td>13</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>18/10/2022</td> <td>2</td> <td>22</td> <td>11</td> <td>Diseño por adelanto de fase</td>
+		<td>18/10/2022</td> <td>2</td> <td>22</td> <td>13</td> <td>Diseño por adelanto de fase</td>
 	</tr>
 	<tr>
-		<td>24/10/2022</td> <td>2</td> <td>23</td> <td>12</td> <td>Introducción a control digital</td>
+		<td>24/10/2022</td> <td>2</td> <td>23</td> <td>14</td> <td>Introducción a control digital</td>
 	</tr>
 	<tr>
-		<td>25/10/2022</td> <td>2</td> <td>24</td> <td>12</td> <td>Transformada Z</td>
+		<td>25/10/2022</td> <td>2</td> <td>24</td> <td>14</td> <td>Transformada Z</td>
 	</tr>
 	<tr>
-		<td>31/10/2022</td> <td>2</td> <td>25</td> <td>13</td> <td>Discretización de controladores analógicos</td>
+		<td>31/10/2022</td> <td>2</td> <td>25</td> <td>15</td> <td>Discretización de controladores analógicos</td>
 	</tr>
     <tr>
-		<td>01/11/2022</td> <td>2</td> <td>26</td> <td>13</td> <td>Dudas</td>
+		<td>01/11/2022</td> <td>2</td> <td>26</td> <td>15</td> <td>Dudas</td>
 	</tr>
     <tr>
-		<td>07/11/2022</td> <td>2</td> <td>29</td> <td>15</td> <td>FESTIVO</td>
+		<td>07/11/2022</td> <td>2</td> <td>29</td> <td>16</td> <td>FESTIVO</td>
 	</tr>
     <tr>
-		<td>08/11/2022</td> <td>2</td> <td>30</td> <td>15</td> <td>Examen final</td>
+		<td>08/11/2022</td> <td>2</td> <td>30</td> <td>16</td> <td>Examen final</td>
 	</tr><!--Finalización de clases-->
     <tr>
-		<td>14/11/2022</td> <td>2</td> <td>31</td> <td>16</td> <td>FESTIVO</td>
+		<td>14/11/2022</td> <td>2</td> <td>31</td> <td>17</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>15/11/2022</td> <td>2</td> <td>32</td> <td>16</td> <td>Retroalimentación del examen final<br>Entrega de notas tercer corte</td>
+		<td>15/11/2022</td> <td>2</td> <td>32</td> <td>17</td> <td>Retroalimentación del examen final<br>Entrega de notas tercer corte</td>
 	</tr>
 </table>
 
