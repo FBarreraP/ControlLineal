@@ -32,3 +32,6 @@ $$Q_i = Fuerza generalizada$$
 $$q_i = Coordenada generalizada$$
 $$i = Grado de libertad$$
 
+<h2>Ejercicios</h2>
+
+
